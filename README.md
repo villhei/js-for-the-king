@@ -3,7 +3,7 @@
 Examples include
 
 * rest-spread in [`src/spread.js`](src/spread.js)
-* classes and arrows in [`src/classes-arrows.js`](src/classses-arrows.js)
+* classes and arrows in [`src/classes-arrows.js`](src/classes-arrows.js)
 
 ## Instructions
 
